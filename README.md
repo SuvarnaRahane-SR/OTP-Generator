@@ -6,6 +6,7 @@ Now a days  OTP's are used in almost every service like Internet Banking,Online 
 # Used Function:- 
 random.random():
 This function return any random number between 0 to 1.
+
 math.floor():
 It returns floor of any floating number to a integer value.
 
